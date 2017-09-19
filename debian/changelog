@@ -1,0 +1,5 @@
+noteshrink (0.1.1) xenial; urgency=medium
+
+  * First Debian package
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Tue, 19 Sep 2017 13:21:25 +0200
