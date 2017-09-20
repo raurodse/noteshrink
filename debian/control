@@ -12,7 +12,7 @@ Vcs-Browser: https://github.com/mzucker/noteshrink
 X-Python-Version: >= 2.6
 
 Package: noteshrink
-Architecture: any
+Architecture: all
 Depends: ${python:Depends}, ${shlibs:Depends}, ${misc:Depends}, python-numpy, python-scipy, python-pil, imagemagick, python
 Description: Convert scans of handwritten notes to beautiful, compact PDFs
  Program to clean up scans of handwritten notes while simultaneously reducing 
